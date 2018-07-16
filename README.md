@@ -1,4 +1,4 @@
-# DapyCoin
+# DpayCoin
 Pow &amp; Pos BlockChain
 Copyright (c) 2012-2018 Bitcoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
